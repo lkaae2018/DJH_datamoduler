@@ -49,6 +49,8 @@ Hvis GitDesktop benyttes er det kun fra https:// der skal kopiers.
 
 [PDF med Linux kommandoer fra Mercantec!!!](http://www.linuxbog.dk/unix/bog/unix-appendiks-kommandooversigt.html)
 
+[Rigtig god hjemmeside med kurser i Linux og Packet tracer](http://danscourses.com/)
+
 ## RASPBERRYPI
 [Link til RPI’s hjemmeside, her kan næsten alt findes om RPI.](http://www.raspberrypi.org/)
 
