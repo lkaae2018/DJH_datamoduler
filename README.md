@@ -68,6 +68,7 @@ Hvis GitDesktop benyttes er det kun fra https:// der skal kopiers.
 [Python’s hjemmeside](https://www.python.org/)
 
 [PyCharm Edu hjemmeside](https://www.jetbrains.com/pycharm-edu/?gclid=EAIaIQobChMInsuNzMaL4QIVTOh3Ch1JuwIeEAAYASACEgKUKfD_BwE&gclsrc=aw.ds)
+
 [Python Undervisnings side](https://www.tutorialspoint.com/python/index.htm)
 
 [Statemachine tegneprogram](http://madebyevan.com/fsm)
