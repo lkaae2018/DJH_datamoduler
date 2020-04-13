@@ -1,7 +1,7 @@
 # DJH_datamoduler
 Denne side indeholder links hint med mere til modul 1.1 og 2.1.
 ## Cisco links
-Link til at downloade Packet Tracer https://www.netacad.com/courses/packet-tracer
+Link til at downloade Packet Tracer [Packet Tracer](https://www.netacad.com/courses/packet-tracer)
 
 Cisco Network Assistent [CNA](https://www.cisco.com/c/en/us/products/cloud-systems-management/network-assistant/index.html)
 
