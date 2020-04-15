@@ -57,8 +57,6 @@ Hvis GitDesktop benyttes er det kun fra https:// der skal kopiers.
 
 [Dansk web side med en kort beskrivelse af Linux kommandoer](http://www.linuxbog.dk/unix/bog/unix-appendiks-kommandooversigt.html)
 
-[PDF med Linux kommandoer fra Mercantec!!!](http://www.linuxbog.dk/unix/bog/unix-appendiks-kommandooversigt.html)
-
 [Rigtig god hjemmeside med kurser i Linux og Packet tracer](http://danscourses.com/)
 
 ## RASPBERRYPI
