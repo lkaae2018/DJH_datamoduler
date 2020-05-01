@@ -40,8 +40,6 @@ Hvis GitDesktop benyttes er det kun fra https:// der skal kopiers.
 
 *git clone https://github.com/lkaae2018/menu “Menu struktur i Python”
 
-*git clone https://github.com/lkaae2018/pt72 “Packet Tracer installation”
-
 *git clone https://github.com/lkaae2018/Python_regnemaskine
 
 *git clone https://github.com/lkaae2018/Statemachine1 “Livetsgang”
@@ -50,7 +48,7 @@ Hvis GitDesktop benyttes er det kun fra https:// der skal kopiers.
 
 *get clone https://github.com/lkaae2018/Python “Tkinter m.m.”
 
-*get clone https://github.com/lkaae2018/ Fiberbudget “Hjælp til Fiberbudget beregneren”
+*get clone https://github.com/lkaae2018/Fiberbudget “Hjælp til Fiberbudget beregneren”
 
 ## LINUX
 [Website til Ubuntu](www.ubuntu.com)
