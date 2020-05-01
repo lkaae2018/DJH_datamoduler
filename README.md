@@ -72,6 +72,8 @@ Hvis GitDesktop benyttes er det kun fra https:// der skal kopiers.
 
 [Link til Minielektro som sælger komponenter til RPI](https://minielektro.dk/)
 
+[Link til overvågning af temp på CPU ien RPI ved hjælp af Thingspeak]https://learn.sparkfun.com/tutorials/python-programming-tutorial-getting-started-with-the-raspberry-pi/experiment-1-digital-input-and-output
+
 ## PYTHON
 [Python’s hjemmeside](https://www.python.org/)
 
