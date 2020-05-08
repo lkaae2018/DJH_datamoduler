@@ -76,6 +76,7 @@ Hvis GitDesktop benyttes er det kun fra https:// der skal kopiers.
 
 ## PMOD HAT til Raspberry Pi
 Følgende kommandoer skal skrives for installere SW til PMOD HAT:
+
 #sudo raspi-config
 
 Vælg:
@@ -93,7 +94,12 @@ $ sudo apt-get install python-pip python-dev libfreetype6-dev libjpeg-dev build-
 Til sidst skal modulet DesignSpark.Pmod og nogle flere afhængighederinstalleres:
 
 $ sudo pip3 install DesignSpark.Pmod==0.2.0
+
 Ovenstående bliver installeret så den kan bruges sammen med Python2, hvis Python3 skal benyttes fjernes =0.2.0.
+
+Find den software som passer til det modul der skal benyttes på denne side:
+
+[Designspark hjemmeside med data og link til Python programmer til do.](https://www.rs-online.com/designspark/the-new-raspberry-pi-pmod-hat-adapter-from-designspark)
 
 ## PYTHON
 [Python’s hjemmeside](https://www.python.org/)
