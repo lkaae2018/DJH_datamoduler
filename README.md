@@ -57,7 +57,7 @@ Hvis GitDesktop benyttes er det kun fra https:// der skal kopiers.
 
 [Rigtig god hjemmeside med kurser i Linux og Packet tracer](http://danscourses.com/)
 
-## RASPBERRYPI
+## RASPBERRY PI
 [Link til RPI’s hjemmeside, her kan næsten alt findes om RPI.](http://www.raspberrypi.org/)
 
 [Danske hjemmeside, hvor der kan købes RPI komponenter.](http://www.raspberrypi.dk/)
@@ -73,6 +73,27 @@ Hvis GitDesktop benyttes er det kun fra https:// der skal kopiers.
 [Link til overvågning af temp på CPU ien RPI ved hjælp af Thingspeak](https://iotdesignpro.com/projects/how-to-send-data-to-thingspeak-cloud-using-raspberry-pi)
 
 [Link til Thingspeak.com](https://www.thingspeak.com)
+
+## PMOD HAT til Raspberry Pi
+Følgende kommandoer skal skrives for installere SW til PMOD HAT:
+#sudo raspi-config
+
+Vælg:
+
+    Option 5 - Interfacing
+    P4 - SPI
+    Enable → YES
+
+Så skal der installeres nogle afhængigheder:
+
+$ sudo apt-get update
+
+$ sudo apt-get install python-pip python-dev libfreetype6-dev libjpeg-dev build-essential
+
+Til sidst skal modulet DesignSpark.Pmod og nogle flere afhængighederinstalleres:
+
+$ sudo pip3 install DesignSpark.Pmod==0.2.0
+Ovenstående bliver installeret så den kan bruges sammen med Python2, hvis Python3 skal benyttes fjernes =0.2.0.
 
 ## PYTHON
 [Python’s hjemmeside](https://www.python.org/)
