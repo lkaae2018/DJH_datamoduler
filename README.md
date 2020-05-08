@@ -66,6 +66,8 @@ Hvis GitDesktop benyttes er det kun fra https:// der skal kopiers.
 
 [Python programmer til PMOD HAT’ene](https://designspark-pmod.readthedocs.io/en/latest/)
 
+[PyPi PMOD HAT til raspberry Pi(0.2.0)](https://pypi.org/project/DesignSpark.Pmod/0.2.0/)
+
 [Arduinotech.dk har en masse komponenter til RPI og Arduino](https://arduinotech.dk/)
 
 [Link til Minielektro som sælger komponenter til RPI](https://minielektro.dk/)
