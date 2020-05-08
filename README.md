@@ -99,7 +99,7 @@ Ovenstående bliver installeret så den kan bruges sammen med Python2, hvis Pyth
 
 Find den software som passer til det modul der skal benyttes på denne side:
 
-[Designspark hjemmeside med data og link til Python programmer til do.](https://www.rs-online.com/designspark/the-new-raspberry-pi-pmod-hat-adapter-from-designspark)
+[Designspark hjemmeside med link til eks. Python programmer til do.](https://designspark-pmod.readthedocs.io/en/latest/basic-examples.html)
 
 ## PYTHON
 [Python’s hjemmeside](https://www.python.org/)
