@@ -66,7 +66,7 @@ Hvis GitDesktop benyttes er det kun fra https:// der skal kopiers.
 
 [Python programmer til PMOD HAT’ene](https://designspark-pmod.readthedocs.io/en/latest/)
 
-[PyPi PMOD HAT til raspberry Pi(0.2.0)](https://pypi.org/project/DesignSpark.Pmod/0.2.0/)
+[PyPi PMOD HAT til raspberry Pi](https://pypi.org/project/DesignSpark.Pmod/0.2.0/)
 
 [Github PMOD hat med Python eksempler](https://github.com/designsparkrs/DesignSpark.Pmod)
 
@@ -74,7 +74,7 @@ Hvis GitDesktop benyttes er det kun fra https:// der skal kopiers.
 
 [Link til Minielektro som sælger komponenter til RPI](https://minielektro.dk/)
 
-[Link til overvågning af temp på CPU ien RPI ved hjælp af Thingspeak](https://iotdesignpro.com/projects/how-to-send-data-to-thingspeak-cloud-using-raspberry-pi)
+[Link til overvågning af temp på CPU ien RPI ved hjælp af Thingspeak (Python2!!!)](https://iotdesignpro.com/projects/how-to-send-data-to-thingspeak-cloud-using-raspberry-pi)
 
 [Link til Thingspeak.com](https://www.thingspeak.com)
 
@@ -97,9 +97,7 @@ $ sudo apt-get install python-pip python-dev libfreetype6-dev libjpeg-dev build-
 
 Til sidst skal modulet DesignSpark.Pmod og nogle flere afhængighederinstalleres:
 
-$ sudo pip3 install DesignSpark.Pmod==0.2.0
-
-Ovenstående bliver installeret så den kan bruges sammen med Python2, hvis Python3 skal benyttes fjernes =0.2.0.
+$ sudo pip3 install DesignSpark.Pmod
 
 Find den software som passer til det modul der skal benyttes på denne side:
 
