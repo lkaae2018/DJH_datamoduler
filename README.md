@@ -66,7 +66,7 @@ Hvis GitDesktop benyttes er det kun fra https:// der skal kopiers.
 
 [Python programmer til PMOD HAT’ene](https://designspark-pmod.readthedocs.io/en/latest/)
 
-[PyPi PMOD HAT til raspberry Pi](https://pypi.org/project/DesignSpark.Pmod/0.2.0/)
+[PyPi PMOD HAT til raspberry Pi](https://pypi.org/project/DesignSpark.Pmod/)
 
 [Github PMOD hat med Python eksempler](https://github.com/designsparkrs/DesignSpark.Pmod)
 
