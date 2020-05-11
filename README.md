@@ -78,6 +78,8 @@ Hvis GitDesktop benyttes er det kun fra https:// der skal kopiers.
 
 [Link til Thingspeak.com](https://www.thingspeak.com)
 
+[Link til vejledning i Beebotte](https://github.com/lkaae2018/Beebotte_modul2.1.git)
+
 ## PMOD HAT til Raspberry Pi
 Følgende kommandoer skal skrives for installere SW til PMOD HAT:
 
