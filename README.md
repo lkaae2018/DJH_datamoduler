@@ -70,6 +70,8 @@ Hvis GitDesktop benyttes er det kun fra https:// der skal kopiers.
 
 [Github PMOD hat med Python eksempler](https://github.com/designsparkrs/DesignSpark.Pmod)
 
+[OLED display til RPI](https://indibit.de/raspberry-pi-oled-display-128x64-mit-python-ansteuern-i2c/)
+
 [Arduinotech.dk har en masse komponenter til RPI og Arduino](https://arduinotech.dk/)
 
 [Link til Minielektro som sælger komponenter til RPI](https://minielektro.dk/)
