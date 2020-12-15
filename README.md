@@ -60,6 +60,8 @@ Hvis GitDesktop benyttes er det kun fra https:// der skal kopiers.
 ## RASPBERRY PI
 [Link til RPI’s hjemmeside, her kan næsten alt findes om RPI.](http://www.raspberrypi.org/)
 
+[Link til opsætning af raspberypi kamera.](https://projects.raspberrypi.org/en/projects/getting-started-with-picamera)
+
 [Danske hjemmeside, hvor der kan købes RPI komponenter.](http://www.raspberrypi.dk/)
 
 [Designspark hjemmeside med data og link til Python programmer til do.](https://www.rs-online.com/designspark/the-new-raspberry-pi-pmod-hat-adapter-from-designspark)
